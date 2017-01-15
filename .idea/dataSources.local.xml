@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails blog-demo-2016: test" uuid="20f50917-17ae-4834-b09c-16c5a42b0544">
+      <database-info product="PostgreSQL" version="9.6.1" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>postgres</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <resolve-scope>FP_Test:postgres,public</resolve-scope>
+    </data-source>
+    <data-source name="Rails blog-demo-2016: production" uuid="b713fb8b-f400-46be-b2c0-1afff7ebd737">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+    </data-source>
+    <data-source name="Rails blog-demo-2016: development" uuid="c34ead70-5170-408a-85c0-d94bdc767dbe">
+      <database-info product="PostgreSQL" version="9.6.1" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>postgres</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9c</user-password>
+      <resolve-scope>FP_Dev:postgres,public</resolve-scope>
+    </data-source>
+  </component>
+</project>
